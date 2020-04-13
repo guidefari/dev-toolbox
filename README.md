@@ -12,7 +12,10 @@
 - [Mozilla](https://www.mozilla.org/en-US/firefox/new/): When dealing with CSS grid & flexbox, Mozilla delivers much more solid dev tools.
 - [Netlify](https://www.netlify.com/): Host static sites for free from github repo, start learning how to deploy sites and a lot more.
 
-## Text Editor plugins
+## Essential Text Editor plugins
+- Live server: Development local server.
+- Prettier: Code formater, for consistency across all your projects' code.
+- GitHub intergration: Makes for easier learning of git for beginners.
 
 ## Design Toolbox 
 -  [Figma](https://www.figma.com/downloads/) & [XD](https://www.adobe.com/products/xd.html): Recommended for prototyping, an essential part of the design process. 
