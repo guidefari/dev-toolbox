@@ -4,6 +4,7 @@
 ## Education Resources
 - [Brad Traversy](https://www.traversymedia.com/): This is probably the best starting point to get a feel of what Web Development is today.
 - [freeCodeCamp](https://www.freecodecamp.org/learn/): Tutorial based learning, good starting point for html, css & js.
+- [Open Source Contribution](https://github.com/freeCodeCamp/how-to-contribute-to-open-source): The most comprehensive guide for beginners to open source software contribution.
 
 ## Basic Toolbox - Items you're likely to use everyday
 - [Text Editors](https://www.techradar.com/best/best-text-editors): Check all these text-editors out and choose one you're comfortable with.
@@ -31,9 +32,12 @@
 ## Freelance Development useful links
 - [Drafting your own contract](https://www.smashingmagazine.com/2009/10/freelance-contracts-dos-and-donts): Blog post to help with drafting your contracts for clients, a **must** before taking up any jobs. 
 - [More contract drafting links](https://www.smashingmagazine.com/2013/04/legal-guide-contract-samples-for-designers/)
+- [Free SSL Certificates](https://letsencrypt.org/): Provided by Let's encrypt, good for dealing with real SSL certificates whilsst learning or deploying client sites. Most hosting providers these days however, provide SSL certificates in their packages.
 
-## Similar Repositories
-[Andreasbm web skills](https://andreasbm.github.io/web-skills/): Almost all up to date technologies that are at your disposal as a web developer.
+## Similar Repositories & References
+- [Andreasbm web skills](https://andreasbm.github.io/web-skills/): Almost all up to date technologies that are at your disposal as a web developer.
+- [Roadmap](https://roadmap.sh/): Another very comprehensive roadmap that I've referred to a few times.
+- [Awesome tools for junior developers](): Covers relevant resources help with all sorts, from education to entertainment. 
 
 ## Networking
 - [ZWTech](https://join.slack.com/t/zwtech-community/shared_invite/zt-d9zb5gtg-2sV4pItLTep3CdpCAWYLeQ): Zim Tech, Slack Channel
