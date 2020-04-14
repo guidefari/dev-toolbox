@@ -20,6 +20,7 @@
 ## Design Toolbox 
 -  [Figma](https://www.figma.com/downloads/) & [XD](https://www.adobe.com/products/xd.html): Recommended for prototyping, an essential part of the design process. 
 - [HTML5up](https://html5up.net/): Free HTML & CSS3 templates
+- [UI Design Daily](https://uidesigndaily.com/) - Free design templates for popular prototyping software.
 - [ScrollWatch](https://edull24.github.io/ScrollWatch/0): Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position.(Javascript)
 - [Fonts](https://fonts.google.com/): Google fonts
 - [Color Palettes](https://www.designbombs.com/best-online-color-palette-generators/): An essential part of the design process. 
