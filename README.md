@@ -9,7 +9,6 @@
 
 ## Basic Toolbox - Items you're likely to use everyday
 - [Text Editors](https://www.techradar.com/best/best-text-editors): Check all these text-editors out and choose one you're comfortable with.
-
 - [Mozilla](https://www.mozilla.org/en-US/firefox/new/): When dealing with CSS grid & flexbox, Mozilla delivers much more solid dev tools.
 - [Netlify](https://www.netlify.com/): Host static sites for free from github repo, start learning how to deploy sites and a lot more.
 
@@ -26,6 +25,7 @@
 - [Fonts](https://fonts.google.com/): Google fonts
 - [Color Palettes](https://www.designbombs.com/best-online-color-palette-generators/): An essential part of the design process. 
 - [Fun Dummy text generators](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/): Plain lorem ipsum gets a bit boring, for me at least. Also, this site is very beautiful.
+- [CSS Grid generator](https://cssgrid-generator.netlify.app/): Quick starting templates for your grids, customizable on the site too.
 - [Curated Design tools](https://github.com/kudapara/curated-design-tools): More extensive design toolbox 
 
 
