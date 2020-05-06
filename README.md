@@ -24,10 +24,12 @@
 - [UI Design Daily](https://uidesigndaily.com/) - Free design templates for popular prototyping software.
 - [ScrollWatch](https://edull24.github.io/ScrollWatch/0): Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position.(Javascript)
 - [Fonts](https://fonts.google.com/): Google fonts
+- [FontJoy](https://fontjoy.com/): Font pairing generator
 - [Color Palettes](https://www.designbombs.com/best-online-color-palette-generators/): An essential part of the design process. 
 - [Fun Dummy text generators](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/): Plain lorem ipsum gets a bit boring, for me at least. Also, this site is very beautiful.
 - [CSS Grid generator](https://cssgrid-generator.netlify.app/): Quick starting templates for your grids, customizable on the site too.
 - [Curated Design tools](https://github.com/kudapara/curated-design-tools): More extensive design toolbox 
+- [Design tools for devs](https://github.com/bradtraversy/design-resources-for-developers) - Extensive design toolbox by [Brad Traversy](https://www.traversymedia.com/)
 
 
 ## Slightly more advanced toolbox - Want to challenge yourself more?
