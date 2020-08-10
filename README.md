@@ -45,4 +45,4 @@
 ## Similar Repositories & References
 - [Andreasbm web skills](https://andreasbm.github.io/web-skills/): Almost all up to date technologies that are at your disposal as a web developer.
 - [Roadmap](https://roadmap.sh/): Another very comprehensive roadmap that I've referred to a few times.
-- [Awesome tools for junior developers](): Covers relevant resources help with all sorts, from education to entertainment. 
+- [Awesome tools for junior developers](https://github.com/stephhappens/awesome-tools-for-junior-developers): Covers relevant resources help with all sorts, from education to entertainment. 
